@@ -1,0 +1,4 @@
+while using NLTK I explored the text Mody dick using exercises from chapter one of NLTK programming book. 
+we did concordance using the words such as monstrous and ship.
+then we used similar to find words similar to monstrous, ship and angry.
+we continued by finding the word counted for all nine books and found which ever had the largest amount of words in a text.
